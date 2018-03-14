@@ -1,9 +1,46 @@
 h1{
-	color:red;
-	
+	color:red;	
 }
+
+body{
+	color: rgb(255, 230, 0);
+	font-size: 30px;
+}
+
+.redText{
+	color:rgb(180, 26, 26)
+}
+
+.tealText{
+	color:teal
+}
+
+.bigText{
+	font-size: 45px;
+}
+
+.smallText{
+	font-size: 16px;
+}
+
+.divHead{
+	background-image: url(logo.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.backgroundChristmas{
+	background-image: url(BACKGROUND.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
 
 img{
 	width:200px;
 }
+
+
 
